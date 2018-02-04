@@ -1,0 +1,109 @@
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\todolist.Android.csprojResolveAssemblyReference.cache
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\todolist.Android.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\todolist.Android.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\com.companyname.todolist.apk
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\com.companyname.todolist-Signed.apk
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLite-net.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\todolist.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\todolist.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLite-net.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\SQLite-net.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\todolist.Android.csproj.CoreCompileInputs.cache
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\todolist.Android.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\todolist.Android.pdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\android\bin\com.companyname.todolist.apk
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\raw\todo.db3
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\icon.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\values\styles.xml
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\close.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\settings.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\calendar.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\categorie.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\res\drawable\status.png
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\R.cs.flag
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\obj\Debug\uploadflags.txt
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\packages\Xamarin.Forms.2.4.0.280\lib\MonoAndroid10\FormsViewGroup.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist\bin\Debug\todolist.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\packages\Xamarin.Forms.2.4.0.280\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\packages\Xamarin.Forms.2.4.0.280\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\packages\Xamarin.Forms.2.4.0.280\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.Android\bin\Debug\todolist.Android.dll
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist\bin\Debug\todolist.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\todolist.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\todolist.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\todolist.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SQLite-net.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

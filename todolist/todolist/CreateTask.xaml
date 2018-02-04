@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="todolist.CreateTask">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0,2*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <DatePicker Grid.Row="0" Grid.Column="0" x:Name="TaskDate" WidthRequest="2"/>
+                    <TimePicker Grid.Row="0" Grid.Column="1" x:Name="TaskTime" WidthRequest="2"/>
+                </Grid>
+                <Entry x:Name="TitleTask" Text="Task Title" />
+                <Editor x:Name="ContentTask" Text="Task Discription" />
+                <Button Clicked="SaveTask" Text="Save"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

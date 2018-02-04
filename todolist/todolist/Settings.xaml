@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="using:todolist"
+             x:Class="todolist.Settings" >
+    <MasterDetailPage.Master>
+        <ContentPage Padding="5, 25" Title="Settings" BackgroundColor="#778899">
+            <ScrollView>
+                <StackLayout IsClippedToBounds="True">
+                    <Label Text="Master" VerticalOptions="LayoutOptions.Start" TextColor="WhiteSmoke" />
+                </StackLayout>
+                <StackLayout>
+                    <Button Text="Home" TextColor="WhiteSmoke" Clicked="Index"/>
+                    <ListView SelectedItem=""  HeightRequest="40">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid Padding="5,10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="30"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Source="{Binding IconSource}" />
+                                        <Label Grid.Column="1" Text="{Binding Title}" TextColor="WhiteSmoke" />
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <Grid>
+                        <Label Grid.Column="0" HorizontalOptions="StartAndExpand" Text="Sort By Date" TextColor="WhiteSmoke"/>
+                        <Switch x:Name="SwitchDateToDateName" Grid.Column="1"
+                                HorizontalOptions="EndAndExpand"
+                                Toggled="SwitchDateToDate"/>
+                    </Grid>
+                    <Grid>
+                        <Label Grid.Column="0" HorizontalOptions="StartAndExpand" Text="Show Passed Events" TextColor="WhiteSmoke"/>
+                        <Switch x:Name="SwitchDatePassedName"   Grid.Column="2"
+                                HorizontalOptions="EndAndExpand" 
+                                Toggled="SwitchDatePassed"/>
+                    </Grid>
+                    <ListView SelectedItem=""  HeightRequest="40">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid Padding="5,10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="30"/>
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Source="{Binding IconSource}" />
+                                        <Label Grid.Column="1" Text="{Binding Title}" TextColor="WhiteSmoke" />
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <ListView SelectedItem=""  HeightRequest="40">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid Padding="5,10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="30"/>
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Source="{Binding IconSource}" />
+                                        <Label Grid.Column="1" Text="{Binding Title}" TextColor="WhiteSmoke" />
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <ListView x:Name="ViewCategorie" HeightRequest="40">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid Padding="5,10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="30"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Image Grid.Column="0" Source="{Binding IconSource}" />
+                                        <Label Grid.Column="1" Text="{Binding Title}" TextColor="WhiteSmoke" />
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </ScrollView>
+        </ContentPage>
+    </MasterDetailPage.Master>
+</MasterDetailPage>

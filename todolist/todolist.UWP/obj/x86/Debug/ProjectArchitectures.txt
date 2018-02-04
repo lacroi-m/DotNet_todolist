@@ -1,0 +1,2 @@
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist.UWP\todolist.UWP.csproj;x86
+C:\Users\ze\Desktop\New folder\Again\todolist\todolist\todolist\todolist\todolist.csproj;neutral

@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -28,7 +24,7 @@ namespace todolist
             Detail = NewPage;
         }
 
-        public void Index(Object sender, EventArgs e)
+        public void Home(Object sender, EventArgs e)
         {
             NavigationPage DetailPage = new NavigationPage(new ListTaskPage()) { BarBackgroundColor = Color.FromHex("#828282") };
             ChangeDetailPage(DetailPage);
@@ -36,12 +32,11 @@ namespace todolist
 
         public void SwitchDateToDate(object sender, Xamarin.Forms.ToggledEventArgs e)
         {
-            /*
+            
             var MyFilter = App.Filter.GetFilterAsync().ElementAt(0);
             MyFilter.UpDate = this.SwitchDateToDateName.IsToggled;
-            App.Filter.SaveAsync(MyFilter);*/
-
-            Index(sender, e);
+            App.Filter.SaveAsync(MyFilter);
+            Home(sender, e);
         }
 
 
@@ -49,7 +44,7 @@ namespace todolist
         {
             var MyFilter = App.Filter.GetFilterAsync().ElementAt(0);
             App.Filter.SaveAsync(MyFilter);
-            Index(sender, e);
+            Home(sender, e);
         }
 
         void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -60,7 +55,7 @@ namespace todolist
                 NavigationPage DetailPage = new NavigationPage((Page)Activator.CreateInstance(item.TargetType)) { BarBackgroundColor = Color.FromHex("#828282") };
                 ChangeDetailPage(DetailPage);
                 this.ViewCategorie.SelectedItem = null;
-                Index(sender, e);
+                Home(sender, e);
             }
         }
 

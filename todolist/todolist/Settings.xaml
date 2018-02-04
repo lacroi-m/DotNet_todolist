@@ -10,7 +10,7 @@
                     <Label Text="Master" VerticalOptions="LayoutOptions.Start" TextColor="WhiteSmoke" />
                 </StackLayout>
                 <StackLayout>
-                    <Button Text="Home" TextColor="WhiteSmoke" Clicked="Index"/>
+                    <Button Text="Home" TextColor="WhiteSmoke" Clicked="Home"/>
                     <ListView SelectedItem=""  HeightRequest="40">
                         <ListView.ItemTemplate>
                             <DataTemplate>

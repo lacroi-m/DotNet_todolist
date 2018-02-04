@@ -15,6 +15,14 @@ namespace todolist
         private static Table.TaskManager CurrentTask;
         private static Table.TaskManager ModifiedTask;
 
+        async public void Done(Object sender, EventArgs e)
+        {
+            ModifiedTask.Title = TitleTask.Text;
+            ModifiedTask.Todo = false;
+            ModifiedTask.Content = CurrentTask.Content;
+            App.Database.SaveAsync(ModifiedTask);
+            await Navigation.PopAsync();
+        }
 
         async public void SaveTask(Object sender, EventArgs e)
         {

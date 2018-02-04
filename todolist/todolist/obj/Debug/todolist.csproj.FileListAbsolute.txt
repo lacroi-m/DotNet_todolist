@@ -50,7 +50,6 @@ C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.EditingTaskPage.xaml.g.cs
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.Settings.xaml.g.cs
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.ListTaskPage.xaml.g.cs
-C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.ListCategoryPage.xaml.g.cs
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.CreateCategory.xaml.g.cs
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.dll
 C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\obj\Debug\todolist.pdb

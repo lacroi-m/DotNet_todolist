@@ -8,6 +8,7 @@
             <Editor x:Name="ContentTask"></Editor>
             <Button Clicked="SaveTask" Text="Save"></Button>
             <Button Clicked="RemoveTask" Text="Delete"></Button>
+            <Button Clicked="Done" Text="Done"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

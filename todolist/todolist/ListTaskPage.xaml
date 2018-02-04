@@ -4,7 +4,7 @@
              x:Class="todolist.ListTaskPage">
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="TaskListView" Refreshing="OnRefresh" IsPullToRefreshEnabled="True" HorizontalOptions="End" VerticalOptions="End" ItemSelected="EditingTask">
+            <ListView x:Name="TaskListView" Refreshing="OnRefresh" IsPullToRefreshEnabled="True" ItemSelected="EditingTask">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

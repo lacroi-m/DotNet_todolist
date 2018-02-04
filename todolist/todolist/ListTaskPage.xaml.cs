@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Input;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -12,21 +9,8 @@ namespace todolist
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ListTaskPage : ContentPage
     {
-        private void RefreshListDb()
+        private void rec(List<Table.TaskManager> ContentTask, Table.FilterManager MyFilter, List<Table.TaskManagerParameter> Settings)
         {
-            List<Table.TaskManager> ContentTask = App.Database.GetTaskAsync();
-
-            int NbTask = ContentTask.Count();
-            if (NbTask > 1)
-                this.Title = NbTask.ToString() + " tasks";
-            else
-                this.Title = NbTask.ToString() + " task";
-
-            List<Table.TaskManagerParameter> Settings = new List<Table.TaskManagerParameter>();
-            Table.FilterManager MyFilter;
-            if (App.Filter.CheckFilterExist() == false)
-                App.Filter.SaveAsync(new Table.FilterManager());
-            MyFilter = App.Filter.GetFilterAsync().ElementAt(0);
             foreach (var current in ContentTask)
             {
                 Table.TaskManagerParameter tmp = new Table.TaskManagerParameter();
@@ -37,8 +21,7 @@ namespace todolist
                     && ((MyFilter.LateDate == true
                     && (DateTime.Compare(current.ExpirationDate, DateTime.Now) < 0))
                     || (MyFilter.UpDate == true
-                    && !(DateTime.Compare(current.ExpirationDate, DateTime.Now) < 0)))
-                    /*&& (tmpcategory.Checked == true)*/)
+                    && !(DateTime.Compare(current.ExpirationDate, DateTime.Now) < 0))))
                 {
                     if (tmpcategory != null)
                         tmp.CategoryColor = ColorManager.GetColorFromString(tmpcategory.Color);
@@ -55,13 +38,26 @@ namespace todolist
                     Settings.Add(tmp);
                 }
             }
+        }
+
+        private void RefreshListDb()
+        {
+            List<Table.TaskManager> ContentTask = App.Database.GetTaskAsync();
+            int NbTask = ContentTask.Count();
+            Title = "Number of tasks: " + NbTask.ToString();
+            List<Table.TaskManagerParameter> Settings = new List<Table.TaskManagerParameter>();
+            Table.FilterManager MyFilter;
+            if (App.Filter.CheckFilterExist() == false)
+                App.Filter.SaveAsync(new Table.FilterManager());
+            MyFilter = App.Filter.GetFilterAsync().ElementAt(0);
+            rec(ContentTask, MyFilter, Settings);
             TaskListView.ItemsSource = Settings;
         }
 
         public async void OnRefresh(object sender, EventArgs e)
         {
             TaskListView.IsRefreshing = true;
-            this.RefreshListDb();
+            RefreshListDb();
             TaskListView.IsRefreshing = false;
         }
 
@@ -78,19 +74,14 @@ namespace todolist
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            this.RefreshListDb();
+            RefreshListDb();
         }
 
         private void SetPage()
         {
-            ToolbarItem toolbarItem = new ToolbarItem
-            {
-                Text = "+"
-            };
-            toolbarItem.Clicked += async (sender, e) =>
-            {
-                await Navigation.PushAsync(new CreateTask() { BindingContext = new Table.TaskManager() });
-            };
+            ToolbarItem toolbarItem = new ToolbarItem {Icon = "add.png"};
+            toolbarItem.Clicked += async (sender, e) => {
+                await Navigation.PushAsync(new CreateTask() { BindingContext = new Table.TaskManager() });};
             ToolbarItems.Add(toolbarItem);
         }
 

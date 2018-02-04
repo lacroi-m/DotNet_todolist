@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-04T14:37:50.464</Modified>
+      <Modified>2018-02-04T21:51:48.308</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\todolist.UWP.exe">
       <PackagePath>entrypoint\todolist.UWP.exe</PackagePath>
-      <Modified>2018-02-04T14:37:48.401</Modified>
+      <Modified>2018-02-04T21:51:37.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -617,7 +617,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\bin\Debug\todolist.dll">
       <PackagePath>todolist.dll</PackagePath>
-      <Modified>2018-02-04T14:32:34.662</Modified>
+      <Modified>2018-02-04T21:51:32.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\lib\uap10.0\Robmikh.CompositionSurfaceFactory.winmd">
       <PackagePath>Robmikh.CompositionSurfaceFactory.winmd</PackagePath>
@@ -881,6 +881,10 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-01T13:24:48.897</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\add.png">
+      <PackagePath>todolist\add.png</PackagePath>
+      <Modified>2018-02-04T19:27:20.797</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-02-01T08:47:20.394</Modified>
@@ -1048,11 +1052,11 @@
     <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-04T14:31:00.903</Modified>
+      <Modified>2018-02-04T21:51:42.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\todolist.UWP.exe">
       <PackagePath>todolist.UWP.exe</PackagePath>
-      <Modified>2018-02-04T14:37:50.449</Modified>
+      <Modified>2018-02-04T21:51:48.303</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -11,8 +11,8 @@
 namespace todolist {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\Again\\todolist\\todolist\\todolist\\todolist\\CreateCa" +
-        "tegory.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist\\CreateCateg" +
+        "ory.xaml")]
     public partial class CreateCategory : global::Rg.Plugins.Popup.Pages.PopupPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

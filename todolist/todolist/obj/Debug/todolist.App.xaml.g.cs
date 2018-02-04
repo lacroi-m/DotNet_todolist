@@ -11,8 +11,7 @@
 namespace todolist {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\Again\\todolist\\todolist\\todolist\\todolist\\App.xaml" +
-        "")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

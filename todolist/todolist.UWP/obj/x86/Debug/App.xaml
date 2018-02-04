@@ -1,0 +1,8 @@
+﻿<Application xmlns:my="using:Microsoft.Toolkit.Uwp.UI.Controls" 
+    x:Class="todolist.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:todolist.UWP"
+    RequestedTheme="Light">
+
+</Application>

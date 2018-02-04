@@ -11,8 +11,8 @@
 namespace todolist {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\Again\\todolist\\todolist\\todolist\\todolist\\ListCate" +
-        "goryPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist\\ListCategor" +
+        "yPage.xaml")]
     public partial class ListCategoryPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

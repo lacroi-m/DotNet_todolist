@@ -29528,12 +29528,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist.UWP\\todolist.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist.UWP\\todolist.UWP.csproj",
       "projectName": "todolist.UWP",
-      "projectPath": "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist.UWP\\todolist.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist.UWP\\project.json",
+      "projectPath": "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist.UWP\\todolist.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist.UWP\\project.json",
       "packagesPath": "C:\\Users\\ze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist.UWP\\obj\\",
+      "outputPath": "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -29550,8 +29550,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist\\todolist.csproj": {
-              "projectPath": "C:\\Users\\ze\\Desktop\\New folder\\DotNet_todolist_2017\\todolist\\todolist\\todolist.csproj"
+            "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist\\todolist.csproj": {
+              "projectPath": "C:\\Users\\ze\\Desktop\\gitshit\\DotNet_todolist_2017\\todolist\\todolist\\todolist.csproj"
             }
           }
         }

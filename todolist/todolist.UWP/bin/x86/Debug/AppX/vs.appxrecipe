@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>eec64bc0-2751-4758-b2de-7d5995df1eaa</PackageIdentityName>
     <PackageIdentityPublisher>CN=ze</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>F9DAEAE2A4342373910CD9FA245C7E2DD71487975B11EBB1F9ED94D13DC802B3</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>zemax_1.0.0.0_x86__2c60vnxv2ztmg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>zemax_2c60vnxv2ztmg!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-04T21:51:48.308</Modified>
+      <Modified>2018-02-27T08:49:36.981</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\todolist.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\todolist.UWP.exe">
       <PackagePath>entrypoint\todolist.UWP.exe</PackagePath>
-      <Modified>2018-02-04T21:51:37.628</Modified>
+      <Modified>2018-02-27T08:49:14.106</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -615,9 +615,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-12-15T11:22:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\bin\Debug\todolist.dll">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist\bin\Debug\todolist.dll">
       <PackagePath>todolist.dll</PackagePath>
-      <Modified>2018-02-04T21:51:32.873</Modified>
+      <Modified>2018-02-27T08:49:01.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ze\.nuget\packages\robmikh.compositionsurfacefactory\0.7.3\lib\uap10.0\Robmikh.CompositionSurfaceFactory.winmd">
       <PackagePath>Robmikh.CompositionSurfaceFactory.winmd</PackagePath>
@@ -627,271 +627,271 @@
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
       <Modified>2017-06-26T01:01:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\add.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\add.png">
       <PackagePath>add.png</PackagePath>
-      <Modified>2018-02-01T02:34:06.485</Modified>
+      <Modified>2018-02-26T21:06:36.797</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-100.png">
       <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:15:59.234</Modified>
+      <Modified>2018-02-26T21:06:36.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-125.png">
       <PackagePath>Assets\BadgeLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:15:37.782</Modified>
+      <Modified>2018-02-26T21:06:36.274</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-150.png">
       <PackagePath>Assets\BadgeLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:15:08.024</Modified>
+      <Modified>2018-02-26T21:06:36.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-200.png">
       <PackagePath>Assets\BadgeLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:13:51.443</Modified>
+      <Modified>2018-02-26T21:06:36.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\BadgeLogo.scale-400.png">
       <PackagePath>Assets\BadgeLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:13:21.824</Modified>
+      <Modified>2018-02-26T21:06:36.284</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-100.png">
       <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:48:54.501</Modified>
+      <Modified>2018-02-26T21:06:36.397</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-125.png">
       <PackagePath>Assets\Square310x310Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:50:05.003</Modified>
+      <Modified>2018-02-26T21:06:36.403</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-150.png">
       <PackagePath>Assets\Square310x310Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:49:40.480</Modified>
+      <Modified>2018-02-26T21:06:36.409</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-200.png">
       <PackagePath>Assets\Square310x310Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T15:00:53.535</Modified>
+      <Modified>2018-02-26T21:06:36.414</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square310x310Logo.scale-400.png">
       <PackagePath>Assets\Square310x310Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:47:41.726</Modified>
+      <Modified>2018-02-26T21:06:36.431</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:32:05.544</Modified>
+      <Modified>2018-02-26T21:06:36.466</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:15:59.234</Modified>
+      <Modified>2018-02-26T21:06:36.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:43:21.539</Modified>
+      <Modified>2018-02-26T21:06:36.484</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-32.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:44:37.186</Modified>
+      <Modified>2018-02-26T21:06:36.493</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:13:51.443</Modified>
+      <Modified>2018-02-26T21:06:36.501</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-100.png">
       <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:00:35.153</Modified>
+      <Modified>2018-02-26T21:06:36.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-125.png">
       <PackagePath>Assets\Square71x71Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:00:35.153</Modified>
+      <Modified>2018-02-26T21:06:36.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-150.png">
       <PackagePath>Assets\Square71x71Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:00:35.153</Modified>
+      <Modified>2018-02-26T21:06:36.517</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-200.png">
       <PackagePath>Assets\Square71x71Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:00:35.153</Modified>
+      <Modified>2018-02-26T21:06:36.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square71x71Logo.scale-400.png">
       <PackagePath>Assets\Square71x71Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T12:59:33.791</Modified>
+      <Modified>2018-02-26T21:06:36.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:03:40.388</Modified>
+      <Modified>2018-02-26T21:06:36.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-125.png">
       <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:02:49.771</Modified>
+      <Modified>2018-02-26T21:06:36.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-150.png">
       <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:02:01.102</Modified>
+      <Modified>2018-02-26T21:06:36.536</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:00:35.153</Modified>
+      <Modified>2018-02-26T21:06:36.541</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T12:59:33.791</Modified>
+      <Modified>2018-02-26T21:06:36.545</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:26:44.145</Modified>
+      <Modified>2018-02-26T21:06:36.288</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:19:03.270</Modified>
+      <Modified>2018-02-26T21:06:36.298</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:25:32.823</Modified>
+      <Modified>2018-02-26T21:06:36.306</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:24:48.897</Modified>
+      <Modified>2018-02-26T21:06:36.313</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:24:09.362</Modified>
+      <Modified>2018-02-26T21:06:36.363</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:13:06.349</Modified>
+      <Modified>2018-02-26T21:06:36.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:13:06.349</Modified>
+      <Modified>2018-02-26T21:06:36.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:43:21.539</Modified>
+      <Modified>2018-02-26T21:06:36.376</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:50:05.003</Modified>
+      <Modified>2018-02-26T21:06:36.384</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:37:46.835</Modified>
+      <Modified>2018-02-26T21:06:36.391</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:15:02.052</Modified>
+      <Modified>2018-02-26T21:06:36.445</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:16:37.702</Modified>
+      <Modified>2018-02-26T21:06:36.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:16:05.939</Modified>
+      <Modified>2018-02-26T21:06:36.452</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:14:20.890</Modified>
+      <Modified>2018-02-26T21:06:36.457</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T14:13:06.349</Modified>
+      <Modified>2018-02-26T21:06:36.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:32:05.544</Modified>
+      <Modified>2018-02-26T21:06:36.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:15:59.234</Modified>
+      <Modified>2018-02-26T21:06:36.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:44:37.186</Modified>
+      <Modified>2018-02-26T21:06:36.497</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:13:51.443</Modified>
+      <Modified>2018-02-26T21:06:36.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:43:21.539</Modified>
+      <Modified>2018-02-26T21:06:36.487</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:48:54.501</Modified>
+      <Modified>2018-02-26T21:06:36.556</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:50:05.003</Modified>
+      <Modified>2018-02-26T21:06:36.562</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:49:40.480</Modified>
+      <Modified>2018-02-26T21:06:36.565</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:26:44.145</Modified>
+      <Modified>2018-02-26T21:06:36.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-01T13:24:48.897</Modified>
+      <Modified>2018-02-26T21:06:36.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist\add.png">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist\add.png">
       <PackagePath>todolist\add.png</PackagePath>
-      <Modified>2018-02-04T19:27:20.797</Modified>
+      <Modified>2018-02-26T21:07:01.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-02-01T08:47:20.394</Modified>
+      <Modified>2018-02-26T21:06:36.784</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\todolist.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\todolist.UWP.xr.xml">
       <PackagePath>todolist.UWP.xr.xml</PackagePath>
-      <Modified>2018-02-02T12:45:03.539</Modified>
+      <Modified>2018-02-26T21:07:00.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1049,14 +1049,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2017-12-15T11:22:58.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-04T21:51:42.320</Modified>
+      <Modified>2018-02-27T08:49:26.503</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ze\Desktop\New folder\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\todolist.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\ze\Desktop\gitshit\DotNet_todolist_2017\todolist\todolist.UWP\bin\x86\Debug\Core\todolist.UWP.exe">
       <PackagePath>todolist.UWP.exe</PackagePath>
-      <Modified>2018-02-04T21:51:48.303</Modified>
+      <Modified>2018-02-27T08:49:36.972</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
